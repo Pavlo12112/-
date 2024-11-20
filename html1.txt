@@ -3,10 +3,10 @@
 <head>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>Моя перша HTML сторінка</title>
+ <title>Моя перша HTML-сторінка</title> <!-- змінили тут -->
 </head>
 <body>
- <h1>Привіт, світ!</h1>
- <p>Це моя перша HTML сторінка з доданим текстом.</p>
+ <h1>Моя перша HTML-сторінка</h1> <!-- змінили тут -->
+ <p>Це моя перша HTML-сторінка з доданим текстом.</p> <!-- змінили тут -->
 </body>
 </html>
